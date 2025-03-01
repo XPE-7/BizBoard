@@ -19,8 +19,7 @@ BizBoard is a web-based analytics dashboard designed for e-commerce sellers to t
 
 
 ## ⚙️ Tech Stack
-- **Frontend:** React.js, Tailwind CSS  
-- **Backend:** Node.js, Express.js  
+- Typescript Javascript HTML CSS
 - **Database:** Suppabase
 - **Authentication:** JWT-based authentication  
 - **Deployment:** Frontend (Vercel/Netlify), Backend (Render/DigitalOcean)  
